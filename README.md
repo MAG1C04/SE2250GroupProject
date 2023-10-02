@@ -1,5 +1,3 @@
 # SE2250GroupProject
 
-This is a test statement.
-
-1
+2D topdown rpg game with tower defense functionality built using pygame
